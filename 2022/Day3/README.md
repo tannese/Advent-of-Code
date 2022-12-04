@@ -21,6 +21,7 @@ import string
 priority = dict(zip((string.ascii_lowercase + string.ascii_uppercase), range(1, 53)))
 ```
 
+## Setting the character priority
 [Reddit User Lakret](https://www.reddit.com/user/Lakret/) used the ASCII value of the character to set the character priority [their code](https://www.reddit.com/r/adventofcode/comments/zb865p/comment/iytyrfr/?utm_source=share&utm_medium=web2x&context=3) or [their livestream](https://youtu.be/xzK61joGSsg?t=888)
 ```
 def priority(ch):
