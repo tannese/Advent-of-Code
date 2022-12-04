@@ -4,7 +4,7 @@ I'm sure there is a better way to slice the input line into 2 sets. I will keep 
 ##
 [1.1.py](2022/Day3/1.1.py) is the reworked code using sets.  
 
-## Using string module
+## Setting the character priority using string module
 [Reddit User xprotocol_ninesix](https://www.reddit.com/user/xprotocol_ninesix/) utilized the string module to generate the priority map in [their code](https://www.reddit.com/r/adventofcode/comments/zb865p/comment/iyuc2dc/?utm_source=share&utm_medium=web2x&context=3)
 
 ```
@@ -21,7 +21,7 @@ import string
 priority = dict(zip((string.ascii_lowercase + string.ascii_uppercase), range(1, 53)))
 ```
 
-## Setting the character priority
+## Setting the character priority using the ASCII value of the letter passed
 [Reddit User Lakret](https://www.reddit.com/user/Lakret/) used the ASCII value of the character to set the character priority [their code](https://www.reddit.com/r/adventofcode/comments/zb865p/comment/iytyrfr/?utm_source=share&utm_medium=web2x&context=3) or [their livestream](https://youtu.be/xzK61joGSsg?t=888)
 ```
 def priority(ch):
