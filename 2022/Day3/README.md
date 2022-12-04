@@ -14,3 +14,10 @@ priorityMapLower = dict(zip(string.ascii_lowercase, [x for x in range(1, 27)]))
 priorityMapUpper = dict(zip(string.ascii_uppercase, [x for x in range(27, 53)]))
 priorityMap = {**priorityMapLower, **priorityMapUpper}
 ```
+
+[Reddit User soundstripe](https://www.reddit.com/user/soundstripe/) utilized the string module to generate the priority map in 1 line of code in [their code](https://www.reddit.com/r/adventofcode/comments/zb865p/comment/iyub5ob/?utm_source=share&utm_medium=web2x&context=3)
+```
+import string
+
+priority = dict(zip((string.ascii_lowercase + string.ascii_uppercase), range(1, 53)))
+```
