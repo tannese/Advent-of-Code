@@ -4,7 +4,7 @@ I'm sure there is a better way to slice the input line into 2 sets. I will keep 
 ##
 [1.1.py](2022/Day3/1.1.py) is the reworked code using sets.  
 
-## Using strings
+## Using string module
 [Reddit User xprotocol_ninesix](https://www.reddit.com/user/xprotocol_ninesix/) utilized the string module to generate the priority map in [their code](https://www.reddit.com/r/adventofcode/comments/zb865p/comment/iyuc2dc/?utm_source=share&utm_medium=web2x&context=3)
 
 ```
@@ -16,8 +16,5 @@ priorityMap = {**priorityMapLower, **priorityMapUpper}
 ```
 
 [Reddit User soundstripe](https://www.reddit.com/user/soundstripe/) utilized the string module to generate the priority map in 1 line of code in [their code](https://www.reddit.com/r/adventofcode/comments/zb865p/comment/iyub5ob/?utm_source=share&utm_medium=web2x&context=3)
-```
-import string
-
-priority = dict(zip((string.ascii_lowercase + string.ascii_uppercase), range(1, 53)))
-```
+```import string
+priority = dict(zip((string.ascii_lowercase + string.ascii_uppercase), range(1, 53)))```
