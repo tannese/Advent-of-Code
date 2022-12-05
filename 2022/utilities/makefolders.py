@@ -14,7 +14,7 @@ os.mkdir(year)
 
 i = 1
 while (i < 26):
-    day = f"{year}/Day {i}"
+    day = f"{year}/Day{i}"
     os.mkdir(day)
     i += 1
 
