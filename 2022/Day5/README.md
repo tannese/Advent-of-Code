@@ -10,11 +10,11 @@ The ship has a giant cargo crane capable of moving crates between stacks. To ens
 The Elves don't want to interrupt the crane operator during this delicate procedure, but they forgot to ask her which crate will end up where, and they want to be ready to unload them as soon as possible so they can embark.
 
 They do, however, have a drawing of the starting stacks of crates and the rearrangement procedure (your puzzle input). For example:
->
->    [D]    
->[N] [C]    
->[Z] [M] [P]
-> 1   2   3 
+
+    [D]    
+[N] [C]    
+[Z] [M] [P]
+ 1   2   3 
 
 move 1 from 2 to 1
 move 3 from 1 to 3
