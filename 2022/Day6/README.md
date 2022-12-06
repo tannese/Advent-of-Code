@@ -7,6 +7,11 @@ Originally I created separate input.test.txt files to check my code against sinc
 is one long string. After submitting my answers I created a while loop to loop through the input file
 for however many lines it contained
 
+[Reddit User AlbertVeli](https://www.reddit.com/user/AlbertVeli/) Had very 
+[compact code](https://pbs.twimg.com/media/FjRYY8JXoAApEfl?format=png&name=900x900). No need to
+add elements to the list and remove elements. Just slice index/index+nchars and check if they are
+unique
+
 ## --- Day 6: Tuning Trouble ---
 The preparations are finally complete; you and the Elves leave camp on foot and begin to make your way toward the star fruit grove.
 
