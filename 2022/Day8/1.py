@@ -13,6 +13,15 @@ if __name__ == '__main__':
     while (x < len(output)):
         input.append(list(output[x]))
         x += 1
+    
+    x = 0
+    for line in input:
+        while (x < len(line)):
+            line[x] = int(line[x])
+            x += 1
+        x = 0
+
+
 
     rows = len(input)
     cols = len(input[0])
