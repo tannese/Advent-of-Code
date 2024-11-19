@@ -15,5 +15,7 @@ Collection of scripts I've created for the Advent of Code coding challenge at
 | [🎄 Day 5: Supply Stacks](2022/Day5)        | ⭐⭐    | [🎯 Day 5.1](2022/Day5/1.py) [🎯 Day 5.2](2022/Day2/1.2.py)       | 23368 / 29996  |
 | [🎄 Day 6: Tuning Trouble](2022/Day6)        | ⭐⭐    | [🎯 Day 6](2022/Day6/1.py)        | 19184 / 19282  |
 | [🎄 Day 7: No Space Left on Device](2022/Day7)        | ⭐⭐    | [🎯 Day 7](2022/Day7/1.py)        | 19402 / 19973  |
+| [🎄 Day 8: Treetop Tree House](2022/Day8)        | ⭐⭐    | [🎯 Day 7](2022/Day8/1.py)        | 68867 / 62735  |
+
 
 ##### Progress tracker idea from [KevinL10](https://github.com/KevinL10/advent-of-code)
