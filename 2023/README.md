@@ -11,5 +11,6 @@ Collection of scripts I've created for the Advent of Code coding challenge at
 | [❄️ Day 1: Trebuchet?!](../../../tree/master/2023/Day1)        | ⭐⭐    | [🎯 Day 1](../../../tree/master/2023/Day1/1.py)       | 332412 / 248259  |
 
 
+| [❄️ Day 1: Trebuchet?!](2023/Day1)        | ⭐⭐    | [🎯 Day 1](2023/Day1/1.py)       | 332412 / 248259  |
 
 ##### Progress tracker idea from [KevinL10](https://github.com/KevinL10/advent-of-code)
