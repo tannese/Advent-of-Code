@@ -8,7 +8,7 @@ Collection of scripts I've created for the Advent of Code coding challenge at
 ## Progress ⭐(2/50)
 | Day                                    | Status   | Solution                           | Rank (Parts 1/2)       |
 | -----------                           | ---------| --------                            | ---------   |
-| [❄️ Day 1: Trebuchet?!](../../Day1)        | ⭐⭐    | [🎯 Day 1](../../Day1/1.py)       | 332412 / 248259  |
+| [❄️ Day 1: Trebuchet?!](../../../2023/Day1)        | ⭐⭐    | [🎯 Day 1](../../../2023/Day1/1.py)       | 332412 / 248259  |
 
 
 
